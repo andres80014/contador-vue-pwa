@@ -1,0 +1,31 @@
+.app{
+    display: block;
+    text-align: center;
+
+}
+.count{
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+
+html,body{
+    background-color: #35495e;
+    color:#eee;
+}
+button{
+    background-color: #41b883;
+    border: none;
+    padding: 1rem;
+    color:snow;
+    font-size: 1rem;
+    margin:0 0.5rem;
+    font-weight: bold;
+
+}
+
+
+button:hover{
+    cursor: pointer;
+    background-color: #379c6f ;
+}
